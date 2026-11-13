@@ -35,34 +35,35 @@ html
 
 ## 🛠️ Tech Stack
 
-### 🎨 Frontend Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark"/>
+## 🎨 Frontend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&theme=dark" />
 </p>
 
-### ⚙️ Backend Development
+## ⚙️ Backend Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
 </p>
 
-### 🗄️ Databases
+## 🗄️ Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" />
 </p>
 
-### 💻 Programming Languages
+## 💻 Programming Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,java,js&theme=dark"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,ts&theme=dark" />
 </p>
 
-### 🔧 Tools & Technologies
+## 🛠️ Tools & Technologies
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" />
 </p>
 
 ## 📊 GitHub Statistics
