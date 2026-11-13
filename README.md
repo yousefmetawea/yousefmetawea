@@ -1,4 +1,4 @@
-```html
+html
 <div align="center">
 
 # 👋 Hey, I'm Yousef Metawea
@@ -104,4 +104,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003B29,100:00FF88&height=100&section=footer"/>
 
 </div>
-```
+
